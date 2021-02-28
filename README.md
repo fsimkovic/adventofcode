@@ -1,0 +1,1 @@
+Attempt to complete all AOC challenges with 2 stars. Plan is to mostly implement them in C++ remind myself on how to actually code in the language, so expect this to get better as I complete more days.
