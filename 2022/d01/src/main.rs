@@ -1,5 +1,5 @@
-use std::fs;
 use std::collections::BinaryHeap;
+use std::fs;
 
 fn main() {
     let contents = fs::read_to_string("input.txt").expect("Failed to read input data!");
